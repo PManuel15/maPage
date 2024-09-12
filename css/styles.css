@@ -1,0 +1,40 @@
+h3 {
+    font-style:italic;
+    /*color:blue;*/
+}
+body{
+    background-color: #838892;
+    width: 600px;
+    line-height:150%;
+    ext-indent:5px;
+}
+@font-face{
+    font-family: firasans;
+    src: url(/fonte/fira-sans/FiraSans-Regular.otf);
+}
+h2{
+    text-align:center;
+    font-family: firasans;
+}
+.pair{
+    background-color: #5BBDBF;
+}
+.impair{
+    background-color: #FF5850;
+}
+.beware{
+    height: 300px;
+}
+.skill{
+    color: red;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: #0088FF;
+}
+a:hover{
+    color :orange;
+}
